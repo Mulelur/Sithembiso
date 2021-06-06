@@ -17,7 +17,7 @@ export default function FooterContainer() {
           </Footer.Link>
         </Footer.ListItem>
       </Footer.List>
-      <Footer.Text>2018 - 2020 © Mfundo. Design by Weblinnk.</Footer.Text>
+      <Footer.Text>2018 - 2020 © Sithembiso . Design by Weblinnk.</Footer.Text>
     </Footer>
   );
 }

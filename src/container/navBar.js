@@ -11,7 +11,7 @@ export default function NavBarContainer() {
       <NavBar.Container>
         <NavBar.NavLink>
           {/* <NavBar.Image  /> */}
-          <NavBar.Logo>Mfundo</NavBar.Logo>
+          <NavBar.Logo>Sithembiso</NavBar.Logo>
         </NavBar.NavLink>
         <NavBar.Menu
           onClick={(e) => {
